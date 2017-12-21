@@ -218,6 +218,11 @@ header nav li {
         flex-basis: 100%;
     }
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> adding files
 /*Packages Section*/
 
 .packages .grid li {
@@ -266,7 +271,11 @@ header nav li {
 }
 
 
+<<<<<<< HEAD
 /*Cantact Section*/
+=======
+/*Contact Section*/
+>>>>>>> adding files
 
 .contact form {
     display: flex;
